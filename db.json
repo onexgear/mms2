@@ -28,10 +28,5 @@
           "message":"下周會議臨時取消",
           "selected":false
       }
-  ],
-  "roomIdList":[
-        {
-            "id":1
-        }
-    ]
+  ]
 }
