@@ -47,6 +47,34 @@
             "roomId":6,
             "roomName":"大樓公設會議室-B3"
         }
+    ],
+    "getStatusByTime":[
+            {
+                "showRoomList":[
+                  { 
+                    "id":1,
+                    "timeStatus":false
+                  },
+                  {
+                    "id":2,
+                    "timeStatus":true
+                  },
+                  { 
+                    "id":3,
+                    "timeStatus":true
+                  }
+                ],
+                "equipmentList":[
+                    {
+                        "equipmentId":1,
+                        "timeStatus":true
+                    },
+                    {
+                        "equipmentId":2,
+                        "timeStatus":false
+                    }
+                ]
+            }
     ]
 
 }
