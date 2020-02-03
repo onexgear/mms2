@@ -30,23 +30,27 @@
 		"remark":"5人會議室"
 	  }
   ],
-    "showRoomList":[
-        {
-            "roomId":1,
-            "roomName":"3B"
-        },
-        {
-            "roomId":2,
-            "roomName":"24A-A"
-        },
-        {
-            "roomId":3,
-            "roomName":"24A-B"
-        },
-        {
-            "roomId":6,
-            "roomName":"大樓公設會議室-B3"
-        }
+    "getShowRoom":[
+	{
+		"roomId":1,
+		"roomName":"3B",
+		"color":"#000000"
+	},
+	{
+		"roomId":2,
+		"roomName":"24A-A",
+		"color":"#00FF00"
+	},
+	{
+		"roomId":3,
+		"roomName":"24A-B",
+		"color":"#000000"
+	},
+	{
+		"roomId":6,
+		"roomName":"大樓公設會議室-B3",
+		"color":"#000000"
+	}
     ],
     "getStatusByTime":[
             {
