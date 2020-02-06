@@ -31,26 +31,30 @@
 	  }
   ],
     "getShowRoom":[
-	{
+	    {
 		"roomId":1,
 		"roomName":"3B",
-		"color":"#000000"
-	},
-	{
+		"color":"#00ff00",
+		"selected":true
+	    },
+	    {
 		"roomId":2,
 		"roomName":"24A-A",
-		"color":"#00FF00"
-	},
-	{
+		"color":"#00FF00",
+		"selected":true
+	    },
+	    {
 		"roomId":3,
 		"roomName":"24A-B",
-		"color":"#000000"
-	},
-	{
+		"color":"#000000",
+		"selected":false
+	    },
+	    {
 		"roomId":6,
 		"roomName":"大樓公設會議室-B3",
-		"color":"#000000"
-	}
+		"color":"#000000",
+		"selected":false
+	    }
     ],
     "getStatusByTime":[
             {
